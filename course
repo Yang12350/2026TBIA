@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>我的 AI 數位人網頁</title>
+</head>
+<body>
+    <h1>口語主持人表達課程用影片</h1>
+
+    <!-- 這裡貼上從 HeyGen 複製來的嵌入程式碼 -->
+    <iframe width="560" height="315" src="https://app.heygen.com/embeds/f034391fc0704bdc9ded24278276aa72" title="看看 我剛製作的 新 AI 影片！" frameborder="0" allow="encrypted-media; fullscreen;" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://app.heygen.com/embeds/4cd7cb0d9a964b05853dc01fd5f71428" title="看看 我剛製作的 新 AI 影片！" frameborder="0" allow="encrypted-media; fullscreen;" allowfullscreen></iframe>
+
+</body>
+</html>
